@@ -27,14 +27,17 @@ https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.5" tvg-name="TV8.5" tvg-language="Turkish" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png" group-title="",TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TonTV" tvg-name="TonTV" tvg-language="Turkish" tvg-logo="https://1.bp.blogspot.com/-MqjP1uJhTH4/UNDB1XPQBRI/AAAAAAAAA7U/3IyOw58rw4w/s1600/ton_tv_logo.png" group-title="",TonTV
-http://stream.taksimbilisim.com:1935/tontv/smil:tontv.smil/playlist.m3u8 
+#EXTINF:0 type="stream" channelId="2231" logo="https://1.bp.blogspot.com/-B-n2GCkN5y4/Xp9Qt4FwjII/AAAAAAAAMaQ/dMNgolh_p5w3EPRRNgf8rHJk7K4qDCRnwCLcBGAsYHQ/s1600/dmaxlogo.PNG", DMAX Türkiye
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="ASTV" tvg-name="ASTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/cJTBg20/astvlogo.png" group-title="",ASTV
-https://59cba4d34b678.streamlock.net/canlitv/astv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="",TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 
-#EXTINF:-1 tvg-id="Bursa TV" tvg-name="Bursa TV" tvg-language="Turkish" tvg-logo="https://www.canli.co/uploads/kanal/31222bursa-tv.jpg" group-title="",Bursa TV
-http://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://yerelmedya.tv/logosTV/tontv.png", TON TV
+http://waw2.artiyerelmedya.net/tontv/bant1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://yerelmedya.tv/logosTV/astv.png", AS TV
+http://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-9TiXzZjVD3s/XtFz-PKsLcI/AAAAAAAANj4/nbGF0ppllFo6L0rgaiWIKCEKwqMVYDjNwCLcBGAsYHQ/s200/L%25C4%25B0NE%2BTV.png", LİNE TV
 http://broadcasttr.com:1935/linetv/bant1/playlist.m3u8
@@ -51,12 +54,6 @@ https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RCYWMyN/360.png" group-title="",360 TV
 https://canli.ensonhaber.com/tr/360tv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yFLGpmC/tlc.png" group-title="",TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RYn236p/dmaxx.png" group-title="",DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wdbZLgn/vizyon.png" group-title="",Vizyon TV
 https://vizyontv.yayin.com.tr/vizyontv/vizyontv/playlist.m3u8
