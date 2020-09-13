@@ -36,7 +36,7 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://yerelmedya.tv/logosTV/tontv.png", TON TV
 http://waw2.artiyerelmedya.net/tontv/bant1/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://yerelmedya.tv/logosTV/astv.png", AS TV
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/cJTBg20/astvlogo.png", AS TV
 http://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-9TiXzZjVD3s/XtFz-PKsLcI/AAAAAAAANj4/nbGF0ppllFo6L0rgaiWIKCEKwqMVYDjNwCLcBGAsYHQ/s200/L%25C4%25B0NE%2BTV.png", LİNE TV
